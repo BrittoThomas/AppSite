@@ -1,2 +1,2 @@
 # AppSite
-[FireShot.png]
+![](FireShot.png)
